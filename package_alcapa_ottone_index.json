@@ -13,7 +13,7 @@
           "category": "contributed",
           "url": "https://github.com/alejandramiranda/ottone/archive/v0.1.0.zip",
           "archiveFileName": "ottone-0.1.0.zip",
-          "checksum":"SHA-256:1d347337ae9124315b5f835297c9eff6fc7a8ad542a4e1d70913bfcdde900dec",
+          "checksum":"SHA-256:1D347337AE9124315B5F835297C9EFF6FC7A8AD542A4E1D70913BFCDDE900DEC",
           "size":"192415",
           "boards": [
             {"name": "Ottone"}
