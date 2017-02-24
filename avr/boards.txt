@@ -1,0 +1,25 @@
+# See: http://code.google.com/p/arduino/wiki/Platforms
+
+menu.cpu=Processor
+
+ottone.name=Ottone
+
+ottone.upload.tool=avrdude
+ottone.upload.protocol=arduino
+ottone.upload.maximum_size=32256
+ottone.upload.maximum_data_size=2048
+ottone.upload.speed=115200
+
+ottone.bootloader.tool=avrdude
+ottone.bootloader.low_fuses=0xFF
+ottone.bootloader.high_fuses=0xDE
+ottone.bootloader.extended_fuses=0x05
+ottone.bootloader.unlock_bits=0x3F
+ottone.bootloader.lock_bits=0x0F
+ottone.bootloader.file=optiboot/optiboot_atmega328.hex
+
+ottone.build.mcu=atmega328p
+ottone.build.f_cpu=16000000L
+ottone.build.board=AVR_UNO
+ottone.build.core=arduino
+ottone.build.variant=standard
