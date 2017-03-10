@@ -10,7 +10,11 @@
           "name": "Ottone",
           "architecture": "avr",
           "version": "0.1.0",
-          "category": "contributed",
+          "category": "Contributed",
+          "url": "https://github.com/alejandramiranda/ottone/archive/v0.1.0.zip",
+          "archiveFileName": "ottone-0.1.0.zip",
+          "checksum":"SHA-256:1d347337ae9124315b5f835297c9eff6fc7a8ad542a4e1d70913bfcdde900dec",
+          "size":"192415",
           "boards": [
             {"name": "Ottone"}
           ]
